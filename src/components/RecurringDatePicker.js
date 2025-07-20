@@ -16,7 +16,7 @@ const RecurringDatePicker = () => {
 
   return (
     <div className="container mt-5 p-4 rounded shadow bg-white" style={{ maxWidth: '800px' }}>
-      <h3 className="text-center fw-bold mb-4">Recurring Date Picker</h3>
+      <h3 className="text-center fw-bold mb-4">Recurring Date Picker!!</h3>
 
       <div className="row mb-3">
         <div className="col-md-6">

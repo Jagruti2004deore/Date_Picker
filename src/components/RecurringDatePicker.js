@@ -54,7 +54,7 @@ const RecurringDatePicker = () => {
           </select>
         </div>
         <div className="col-md-6">
-          <label className="form-label fw-semibold">Custom Recurrence Pattern</label>
+          <label className="form-label fw-semibold">Repeat Every</label>
           <input
             type="number"
             className="form-control"

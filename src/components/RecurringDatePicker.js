@@ -1,4 +1,3 @@
-// src/components/RecurringDatePicker.js
 import React, { useState } from 'react';
 import DaySelector from './DaySelector';
 
